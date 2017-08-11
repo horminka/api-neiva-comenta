@@ -13,10 +13,10 @@ gem 'ffaker', '2.1.0'
 gem 'pg', '0.18.3'
 
 group :development, :test do
-  gem 'rspec-rails', '3.3.3'
+  gem 'rspec-rails', '3.6.1'
 end
 
 group :production do
   gem 'rails_12factor', '0.0.3'
-  gem 'puma', '2.14.0'
+  gem 'puma', '3.9.1'
 end
