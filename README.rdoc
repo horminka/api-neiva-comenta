@@ -1,3 +1,4 @@
+{<img alt='Stories in Ready' src='https://badge.waffle.io/horminka/api-neiva-comenta.png?label=ready&title=Ready' />}[https://waffle.io/horminka/api-neiva-comenta?utm_source=badge]
 == README
 
 This README would normally document whatever steps are necessary to get the
